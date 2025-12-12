@@ -9,7 +9,7 @@ function Counter() {
 
   return (
     <>
-      <button onClick={candy}>Push for the ring of Sauroman</button>
+      <button onKeyDown={candy}>Push for the ring of Sauroman</button>
       <p>
         the more you push the more it shows that you want it do not worry it
         will consume you anyway
